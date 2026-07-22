@@ -1,0 +1,10 @@
+python java python
+java c++ python
+c++ javascript python
+html java javascript
+c++ python java
+html html c++
+python javascript python
+java c++ html
+javascript java python
+python c++
