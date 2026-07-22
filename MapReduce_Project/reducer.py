@@ -7,8 +7,8 @@ def reducer(key, values):
     them into a single final result.
 
     Example:
-        key = "apple", values = [1, 1, 1, 1]
-        returns ("apple", 4)
+        key = "python", values = [1, 1, 1, 1]
+        returns ("python", 4)
     """
     total = sum(values)
 
