@@ -194,5 +194,5 @@ This project demonstrates the complete MapReduce pipeline using a programming la
 
 BCA - computer application
 
-Francis Xavier Engineering College
+kamaraj College (face prep)
 
