@@ -8,7 +8,7 @@ def mapper(line):
 
     Example:
         Input line: "apple banana apple"
-        Output:     [("apple", 1), ("banana", 1), ("apple", 1)]
+        Output:     [("python", 1), ("java", 1), ("python", 1)]
     """
     words = line.strip().split()
     output = []
